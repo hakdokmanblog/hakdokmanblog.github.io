@@ -4,45 +4,82 @@ title: 소득공유 후불제(ISA)
 permalink: /about/
 image: '/images/01.jpg'
 ---
+# 지금 말고, 나중에 내면 이렇게 달라져요.
 
-안녕하세요, 학생독립만세입니다.
-
-학생독립만세는 소득공유 후불제라는 새로운 교육비 지불방식을 통해, 양질의 교육을 먼저 제공받고 취업 후 소득이 발생하면 교육비를 납부하는 서비스를 제공하고 있습니다.
-
-학생독립만세의 서비스에 대해 자세히 알려드릴게요 :)
-저희는 제공하고 있는 서비스를 '교육 투자'라고 생각합니다. 학독만은 고등학생을 대상으로 하는 후불제 과외에서 취준생을 대상으로 하는 직무 교육 분야로 확대해 나가면서 소득공유 후불제라는 개념을 들여왔습니다.
+강사와 학생의 성공 방정식 일치시키기: "언제?"와 "얼마?"를 바꾸면 됩니다.
 
 ***
 
-![Graffiti]({{site.baseurl}}/images/30.jpg)
-*Photo by [Lucas Lenzi](https://unsplash.com/@lucaslenzi) on Unsplash*
+커리어 방향을 정하고,
 
-> 교육도 투자, 소득공유 후불제 도입한 이유
+원하는 학원과 교육과정을 찾아보고,
 
-미국 교육계에서는 소득공유 후불제가 이미 하나의 제도로 자리잡았습니다.
+**수강료는 각각 얼만지** 슥- 살펴본 뒤,
 
-"미국은 학자금이 굉장히 많이 들잖아요. 즉 대출을 받지 않으면 대학에 가지 못한다는 말이죠. 그런데 막상 졸업해도 취직을 못해 학자금 때문에 받은 대출을 못 갚고 파산하는 학생들이 늘어나기 시작했어요. 그래서 소득공유라는 개념이 생기기 시작한거죠"
+**수강료를 마련할 궁리**를 한참 하고,
 
-> 학원비는 취직하고 월급 받으면 그 때 주세요!
+수강료를 결제 완료 하는 순간,
 
-하지만 소득공유후불제에서는 다르다. 학독만은 학생이 취직을 하지 못하면, 수업료를 전혀 내지 않아도 된다. 그만큼 리스크가 크다. 대신 학생이 취업했을 때 돌아오는 혜택도 커진다. 수업료가 고정돼 있는 게 아니라 월급의 일정 비율로 학생마다 다르게 책정되기 때문이다.
+나의 커리어를 위한 공부는 이렇게 시작됩니다.
 
-***
+학독만은 이 수강료를 '언제', '얼마'를 내야 하는지 달리 생각해봤어요.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/33.jpg">
-    <img src="/images/32.jpg">
-    <img src="/images/31.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+### *"언제?"*
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan listicle.
+수강료를 내고 → 교육을 들었다면,
 
-***
+교육을 받고 취업에 성공하면 → 수강료를 내요.
+
+### *"얼마?"*
+
+정해진 수강료는 없고 → 내 연봉에 비례한 금액을 수강료로 내요.
 
 
+![ISA sample]({{site.baseurl}}/images/36.jpg)
+
+예를 들면, 이렇게.
+
+얼마를, 언제 내야 하는지를 달리 생각하면,
+
+수강료를 마련할 걱정 대신, 나 스스로 나의 미래를 책임질 수 있는 경험을 하게 되죠.
+
+자, 여기까지는 학독만에서 매번 하던 이야기에요.
+
+오늘은 약간의 상상력을 가미해서, 그래서 도대체 나한테 뭐가 좋은데?를 발견해 볼 거예요.
+
+내가 학원 강사라고 상상해 봅시다.
+
+돈을 더 많이 벌려면 어떻게 해야 할까요?
+
+**[선불제로 수강료를 지불하는 A 학원 강사의 수입]**
+
+인원 수 X 수강료 → 더 많은 수강생을 모을수록, 수입이 늘어남
+
+**[소득공유 후불제로 수강료를 지불하는 학독만 학원 강사의 수입]**
+
+인원 수 X 수강료 → 까지는 동일,
+
+- 한 명이라도 취업하지 못하는 학생이 있다면, 그 학생은 수강료를 내지 않음 → 모든 학생이 취업에 성공할 수 있도록 노력해야 하고,
+- 정해진 수강료가 아닌, 연봉에 비례한 수강료를 냄 → 모든 학생들이 더 높은 연봉을 받을 수 있도록 노력해야 하죠.
+
+학독만 학원의 강사가 돈을 더 많이 벌기 위한 공식을 살펴보면,
+
+**1) 모든 학생이 취업에 성공해야 하고, 2) 더 높은 연봉을 받아야 합니다.**
+
+두 가지 모두, 나에게도 성공이 되는 공식이죠.
+
+즉, **학생이 원하는 바와 강사가 원하는 바가 구조적으로 일치**하게 됩니다.
+
+모든 강사들이 학생의 성공에 무관심 하다는 것이 아니에요. 교육자라면, 누구나 본질적으로 학생들의 성공에 큰 관심을 가져야 합니다.
+
+단, 기존의 '먼저 내고 나중에 교육받는' 교육비 지불 방식은 각자의 이익을 극대화하는 공식이 서로 달랐다면,
+
+**학독만의 소득공유 후불제는 교육비 지불 시기를 뒤로 끌어와, 서로 같은 꿈을 꿀 수 있도록 만든 방식입니다.**
+
+나의 성공이 높아질수록, 강사의 수입도 함께 늘어나는 구조적 인센티브는
+
+커리어의 시작을 위해 가장 몰입해야 할 시기에 날개를 달아줄 혁신적인 교육이 될 거에요.
+
+작은 생각의 반전에서 시작된 혁신적인 교육, 마개팅 취업스쿨에서 만나보세요.
 
 ***

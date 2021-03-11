@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  마케팅 실무자로 진화하는 취업부트캠프, 마개팅 취업스쿨 4기 모집
-date:   2020-03-02 15:01:35 +0900
+date:   2021-03-20 15:01:35 +0900
 image:  '/images/34.jpg'
 tags:   Lettering
 ---

@@ -1,6 +1,45 @@
 [
   
     {
+      "title"    : "취준생의 경력 채우기 [Vol.1] 스타트업 인턴이라고?",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/start-up-intern'> <img src='/images/1101.jpg' alt='취준생의 경력 채우기 [Vol.1] 스타트업 인턴이라고?'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/start-up-intern'>취준생의 경력 채우기 [Vol.1] 스타트업 인턴이라고?</a> </h2> <p class='article__excerpt'> “취준생의 경력 채우기” 시리즈는, 스타트업에서 인턴을 고려하는 분들을 위해 연재됩니다.
+
+들어가기 전, 주의사항이 있어요.
+모든 스타트업은 각자 다 다른 기업입니다. 돈을 버는 방식도, 일하는 방식도 다 다르죠. 당연... </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-03-24T15:01:35+09:00'>24 Mar 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/startup,intern,스타트업,인턴' class='article__tag'>startup,intern,스타트업,인턴</a>  </div>  </div> </div> </div> </div>",
+      "category" : "",
+      "tags"     : "startup,intern,스타트업,인턴",
+      "url"      : "/start-up-intern",
+      "date"     : "2021-03-24 15:01:35 +0900"
+    } ,
+  
+    {
+      "title"    : "신입 마케터 채용공고를 분석해 보았다",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/hiring-new-marketer'> <img src='/images/1201.jpg' alt='신입 마케터 채용공고를 분석해 보았다'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/hiring-new-marketer'>신입 마케터 채용공고를 분석해 보았다</a> </h2> <p class='article__excerpt'> 요즘 마케팅하면 가장 먼저 연관되는 단어가 ‘데이터’이고 실제로 디지털 마케팅의 시대가 오면서 마케터는 추측이 아닌 데이터를 바탕으로 성과를 측정하여 전략을 짜고 의사를 결정하는 것이 가능해졌습니다.
+데이터가 중요해졌기... </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-03-23T15:01:35+09:00'>23 Mar 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/마케팅취업준비팁,마케터채용공고,퍼포먼스마케터,신입마케터,광고효율최적화' class='article__tag'>마케팅취업준비팁,마케터채용공고,퍼포먼스마케터,신입마케터,광고효율최적화</a>  </div>  </div> </div> </div> </div>",
+      "category" : "",
+      "tags"     : "마케팅취업준비팁,마케터채용공고,퍼포먼스마케터,신입마케터,광고효율최적화",
+      "url"      : "/hiring-new-marketer",
+      "date"     : "2021-03-23 15:01:35 +0900"
+    } ,
+  
+    {
+      "title"    : "마케터 취준생들이 궁금한 마케팅 직무 5가지 총정리",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/various-kinds-of-marketers'> <img src='/images/1301.jpg' alt='마케터 취준생들이 궁금한 마케팅 직무 5가지 총정리'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/various-kinds-of-marketers'>마케터 취준생들이 궁금한 마케팅 직무 5가지 총정리</a> </h2> <p class='article__excerpt'> 
+  저는 무슨 마케터일까요?
+
+
+마케팅의 중요도가 높아지고, 다양하고 새로운 마케팅 활동들이 등장하면서
+마케터를 담당 업무로 구분하는 이름들도 다양해졌습니다.
+
+그렇다면 저는 어떤 직무의 마케터라고 할 수 있을까요?
+... </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-03-22T15:01:35+09:00'>22 Mar 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/디지털마케터,브랜드마케터,CRM마케터,콘텐츠마케터,퍼포먼스마케터' class='article__tag'>디지털마케터,브랜드마케터,CRM마케터,콘텐츠마케터,퍼포먼스마케터</a>  </div>  </div> </div> </div> </div>",
+      "category" : "",
+      "tags"     : "디지털마케터,브랜드마케터,CRM마케터,콘텐츠마케터,퍼포먼스마케터",
+      "url"      : "/various-kinds-of-marketers",
+      "date"     : "2021-03-22 15:01:35 +0900"
+    } ,
+  
+    {
       "title"    : "요즘 회사들은 어떤 신입 마케터를 뽑을까?",
       "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/marketer-who-company-want-to-hire'> <img src='/images/35.jpg' alt='요즘 회사들은 어떤 신입 마케터를 뽑을까?'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/marketer-who-company-want-to-hire'>요즘 회사들은 어떤 신입 마케터를 뽑을까?</a> </h2> <p class='article__excerpt'> 
   “좋은 디지털 마케터를 뽑고 싶어요”

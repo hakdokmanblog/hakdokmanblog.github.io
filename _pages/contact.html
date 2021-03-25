@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 채용 문의
+title: 채용/제휴 문의
 permalink: /contact/
 image: '/images/25.jpg'
 ---
@@ -13,19 +13,23 @@ image: '/images/25.jpg'
   </div>
   <form class="form" action="{% if site.contact.email %}https://formspree.io/{{site.contact.email}}{% else %}#{% endif %}" method="POST">
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
+      <label class="form__label screen-reader-text" for="form-name">이름</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="이름" required>
     </div>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+      <label class="form__label screen-reader-text" for="form-email">이메일</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="이메일" required>
     </div>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+      <label class="form__label screen-reader-text" for="form-email">회사명</label>
+      <input class="form__input" id="form-email" type="text" name="companyname" placeholder="회사명" required>
     </div>
     <div class="form__group">
-      <button class="button" type="submit">Send Message</button>
+      <label class="form__label screen-reader-text" for="form-text">문의 내용을 입력하세요.</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="문의 내용을 입력하세요." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button" type="submit">제출하기</button>
     </div>
   </form>
 </div>

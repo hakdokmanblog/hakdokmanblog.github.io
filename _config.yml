@@ -29,7 +29,7 @@ hero:
 #-------------------------------
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
 mailchimp__title: 중요한 소식 이메일로 받아보기 # Add your Title
-mailchimp__text: 학독만의 중요하거나 새로운 소식을 받아보시고 싶다면 이메일 주소를 알려주세요. # Add your description.
+mailchimp__text: 학독만의 새로운 소식을 받아보시고 싶다면 이메일 주소를 알려주세요. # Add your description.
 mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp__button__text: 알려주기 # Add your button text
 
@@ -38,7 +38,7 @@ mailchimp__button__text: 알려주기 # Add your button text
 # Contact Settings
 contact:
   email: contact@hakdokman.com # Add your email for contant form
-  description: 우수한 인재를 채용하세요. # Add a description of your form
+  description: 학생독립만세의 교육과정의 제휴 문의 또는 인재 채용 문의는 아래의 양식을 작성해주세요.  # Add a description of your form
 
 # NOTE
 # Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.

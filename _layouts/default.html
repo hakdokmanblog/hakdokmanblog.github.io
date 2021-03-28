@@ -1,13 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 
 {% include head.html %}
 
 <body class="{% if site.blog-theme == 'light' %}light{% elsif site.blog-theme == 'dark' %}dark{% else %}light{% endif %}">
-
-  {% if site.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
 
     {% include header.html %}
     <!-- begin content -->

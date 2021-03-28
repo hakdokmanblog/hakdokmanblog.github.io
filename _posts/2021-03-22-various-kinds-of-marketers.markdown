@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  마케터 취준생들이 궁금한 마케팅 직무 5가지 총정리
+description:
 date:   2021-03-22 15:01:35 +0900
 image:  '/images/1301.jpg'
+category:
 tags:   디지털마케터,브랜드마케터,CRM마케터,콘텐츠마케터,퍼포먼스마케터
 ---
 > 저는 무슨 마케터일까요?

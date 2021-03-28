@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  요즘 회사들은 어떤 신입 마케터를 뽑을까?
+description:
 date:   2021-03-10 15:01:35 +0900
 image:  '/images/35.jpg'
+category:
 tags:   Digital_Marketing Marketer
 ---
 > **"좋은 디지털 마케터를 뽑고 싶어요"**

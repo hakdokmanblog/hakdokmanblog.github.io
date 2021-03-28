@@ -1,11 +1,13 @@
 #-------------------------------
 # General Site Settings
 title: 학생독립만세
+tagline: #태그라인 입력
 logo: /images/logo.png
-description: 학생독립만세 - 학생독립만세는 청년들이 성장 기회를 미루지 않도록, 합리적인 금융을 이용할 수 있는 방법을 만들어 나갑니다.
+description: 학생독립만세는 청년들이 성장 기회를 미루지 않도록, 합리적인 금융을 이용할 수 있는 방법을 만들어 나갑니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
+thumbnail_img: '' #썸네일 이미지 경로 입력
 
 
 #-------------------------------

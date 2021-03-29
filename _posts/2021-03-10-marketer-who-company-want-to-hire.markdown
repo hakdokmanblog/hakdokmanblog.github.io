@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  요즘 회사들은 어떤 신입 마케터를 뽑을까?
-description:
+description: 디지털 마케터 채용 공고에서 빠지지 않는 문구 한 줄! "______ 하신 분". 회사가 기대하는 요소를 파악해보자.
 date:   2021-03-10 15:01:35 +0900
 image:  '/images/35.jpg'
-category:
+category: marketing
 tags:   Digital_Marketing Marketer
 ---
 > **"좋은 디지털 마케터를 뽑고 싶어요"**

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  취준생의 경력 채우기 [Vol.1] 스타트업 인턴이라고?
-description:
+description: 학생독립만세의 인턴 채용 과정을 통해, 스타트업 인턴 채용 과정을 알아보자
 date:   2021-03-24 15:01:35 +0900
 image:  '/images/1101.jpg'
-category:
+category: tip
 tags:   startup,intern,스타트업,인턴
 ---
 "취준생의 경력 채우기" 시리즈는, 스타트업에서 인턴을 고려하는 분들을 위해 연재됩니다.

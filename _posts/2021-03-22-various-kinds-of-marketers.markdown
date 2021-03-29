@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  마케터 취준생들이 궁금한 마케팅 직무 5가지 총정리
-description:
+description: 다양한 마케팅 활동에 따라 다양한 이름의 마케터가 있다. 마케터의 종류와 각 마케터가 하는 업무를 알아보자.
 date:   2021-03-22 15:01:35 +0900
 image:  '/images/1301.jpg'
-category:
+category: marketing
 tags:   디지털마케터,브랜드마케터,CRM마케터,콘텐츠마케터,퍼포먼스마케터
 ---
 > 저는 무슨 마케터일까요?

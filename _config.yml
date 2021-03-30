@@ -3,7 +3,7 @@
 title: 학생독립만세
 tagline: 슬기로운 취준생활 #태그라인 입력
 logo: /images/logo.png
-description: 취준생 필독서, 학생독립만세의 직무별 채용 트렌드, 취준생 꿀팁, 강의 정보, 수료생 후기, 등 알찬 정보를 블로그를 통해 만나보세요!
+description: 취준생 필독서! 학독만의 직무별 채용 트렌드, 취준생 꿀팁, 강의 정보, 수료생 후기, 등 알찬 정보를 블로그를 통해 만나보세요!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hakdokman.com" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
@@ -87,7 +87,7 @@ gallery:
 
 #-------------------------------
 # Google Analytics
-google-analytics:  # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-116555560-5 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

@@ -87,7 +87,7 @@ gallery:
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-116555560-5 # Add your identifier. For example UA-99631805-1.
+google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

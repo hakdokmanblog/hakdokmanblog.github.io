@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: 학생독립만세
-tagline: #태그라인 입력
+tagline: 슬기로운 취준생활 #태그라인 입력
 logo: /images/logo.png
 description: 학생독립만세는 청년들이 성장 기회를 미루지 않도록, 합리적인 금융을 이용할 수 있는 방법을 만들어 나갑니다.
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -69,20 +69,26 @@ disqus-identifier: hakdokman # add your shortname for Disqus Comment. For exampl
 #-------------------------------
 # Gallery Footer Section
 gallery:
-  title: Gallery
+  title: 학생독립만세의 교육 과정
   images:
-    - alt: 'Minimalism'
-      url: '/images/06.jpg'
-    - alt: 'Minimalism'
-      url: '/images/05.jpg'
-    - alt: 'Minimalism'
-      url: '/images/08.jpg'
-    - alt: 'Minimalism'
-      url: '/images/03.jpg'
-    - alt: 'Minimalism'
-      url: '/images/09.jpg'
-    - alt: 'Minimalism'
-      url: '/images/04.jpg'
+    - alt: '디지털 마케팅 취업 부트캠프 마개팅 취업스쿨'
+      url: '/images/magaeting.jpg'
+      link: 'https://static.hakdokman.com/courses/magaeting.html'
+    - alt: '개발자 취업 부트캠프 구공팩토리'
+      url: '/images/90fac.jpg'
+      link: 'https://static.hakdokman.com/courses/90fac.html'
+    - alt: '왕초보 코딩 교육 스파르타코딩클럽'
+      url: '/images/sparta.jpg'
+      link: 'https://static.hakdokman.com/courses/sparta.htm'
+    - alt: '실무 경험 직무 부트캠프 코멘토'
+      url: '/images/comento.jpg'
+      link: 'https://www.hakdokman.com/courses/comento.html'
+    - alt: '항공업계 취업 직무 교육 윙드트랙'
+      url: '/images/winged.jpg'
+      link: 'https://www.hakdokman.com/courses/winged_track.html'
+    - alt: 'UXUI 디자이너 취업 아카데미 타잔스쿨'
+      url: '/images/tarzan.jpg'
+      link: 'https://www.hakdokman.com/courses/tarzan_school.html'
 
 
 #-------------------------------

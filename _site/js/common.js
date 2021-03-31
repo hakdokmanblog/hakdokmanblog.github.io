@@ -94,7 +94,7 @@ $(document).ready(function() {
   // Zoom Image
   ======================= */
   $('.post p:has(> img), .page p:has(> img)').addClass("image-box");
-  $(".page img, .post img, .gallery__image img").attr("data-action", "zoom");
+  $(".page img, .post img, .gallery__image img").attr("data-action", "");
   $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
 

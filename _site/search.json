@@ -1,8 +1,17 @@
 [
   
     {
+      "title"    : "신입 마케터가 놓치기 쉬운 포트폴리오 작성 팁 5가지",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/marketer-portfolio-5tips'> <img src='/images/06/1.jpg' alt='신입 마케터가 놓치기 쉬운 포트폴리오 작성 팁 5가지'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/marketer-portfolio-5tips'>신입 마케터가 놓치기 쉬운 포트폴리오 작성 팁 5가지</a> </h2> <p class='article__excerpt'> 신입 마케터를 위한 채용 담당자를 편하게 만드는 '포트폴리오 작성 팁 5가지'를 소개합니다. </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-04-27T12:01:35+09:00'>27 Apr 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/포트폴리오' class='article__tag'>포트폴리오</a>  <a href='/tag/마케팅취업준비' class='article__tag'>마케팅취업준비</a>  <a href='/tag/마케터' class='article__tag'>마케터</a>  <a href='/tag/취준생' class='article__tag'>취준생</a>  </div>  </div> </div> </div> </div>",
+      "category" : "marketing",
+      "tags"     : "포트폴리오, 마케팅취업준비, 마케터, and 취준생",
+      "url"      : "/marketer-portfolio-5tips",
+      "date"     : "2021-04-27 12:01:35 +0900"
+    } ,
+  
+    {
       "title"    : "마케터로 커리어를 시작한 사람들, 마개팅 취업스쿨 수료생들의 추천사",
-      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/magaetingachool-graduate-recommendation'> <img src='/images/05/001.jpg' alt='마케터로 커리어를 시작한 사람들, 마개팅 취업스쿨 수료생들의 추천사'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/magaetingachool-graduate-recommendation'>마케터로 커리어를 시작한 사람들, 마개팅 취업스쿨 수료생들의 추천사</a> </h2> <p class='article__excerpt'> 학생독립만세의 마개팅 취업스쿨을 통해 마케터로 커리어를 시작하고 있는 수료생들의 추천사. </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-04-15T14:01:35+09:00'>15 Apr 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/디지털마케팅강의' class='article__tag'>디지털마케팅강의</a>  <a href='/tag/마개팅취업스쿨' class='article__tag'>마개팅취업스쿨</a>  <a href='/tag/마케터' class='article__tag'>마케터</a>  <a href='/tag/마케팅취업' class='article__tag'>마케팅취업</a>  <a href='/tag/후기' class='article__tag'>후기</a>  </div>  </div> </div> </div> </div>",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/magaetingachool-graduate-recommendation'> <img src='' alt='마케터로 커리어를 시작한 사람들, 마개팅 취업스쿨 수료생들의 추천사'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/magaetingachool-graduate-recommendation'>마케터로 커리어를 시작한 사람들, 마개팅 취업스쿨 수료생들의 추천사</a> </h2> <p class='article__excerpt'> 학생독립만세의 마개팅 취업스쿨을 통해 마케터로 커리어를 시작하고 있는 수료생들의 추천사. </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>학생독립만세</a> <span class='article__date'><time datetime='2021-04-15T14:01:35+09:00'>15 Apr 2021</time></span>  <div class='article-tags__box'>  <a href='/tag/디지털마케팅강의' class='article__tag'>디지털마케팅강의</a>  <a href='/tag/마개팅취업스쿨' class='article__tag'>마개팅취업스쿨</a>  <a href='/tag/마케터' class='article__tag'>마케터</a>  <a href='/tag/마케팅취업' class='article__tag'>마케팅취업</a>  <a href='/tag/후기' class='article__tag'>후기</a>  </div>  </div> </div> </div> </div>",
       "category" : "marketing",
       "tags"     : "디지털마케팅강의, 마개팅취업스쿨, 마케터, 마케팅취업, and 후기",
       "url"      : "/magaetingachool-graduate-recommendation",

@@ -5,7 +5,7 @@ description: 디지털 마케터 채용 공고에서 빠지지 않는 문구 한
 date:   2021-03-10 15:01:35 +0900
 image:  '/images/35.jpg'
 category: marketing
-tags:   Digital_Marketing Marketer
+tags:   디지털마케팅 마케터
 ---
 > **"좋은 디지털 마케터를 뽑고 싶어요"**
 

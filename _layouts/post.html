@@ -28,4 +28,8 @@ layout: default
     'post_title': '{{page.title}}',
     'type': 'post'
   });
+  fbq('track', 'ViewContent', {
+    content_ids: '{{page.title}}',
+    content_type: 'post',
+  });
 </script>
